@@ -37,3 +37,4 @@ public class App {
         System.out.println("Konto nr 1 ma wiecej niz konto nr 2: " + (k1.maWiecejNiz(k2) ? "TAK" : "NIE"));
     }
 }
+ 
